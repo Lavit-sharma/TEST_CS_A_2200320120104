@@ -1,0 +1,20 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.converter {
+    text-align: center;
+    background-color:skyblue;
+
+    height: 300px;
+    width: 500px;
+    border-radius: 20px;
+}
+#btn{
+    background-color: grey;
+    border-radius: 5px;
+}
